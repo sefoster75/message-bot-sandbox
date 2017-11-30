@@ -1,0 +1,19 @@
+{
+  "name": "message-bot-sandbox",
+  "version": "1.0.0",
+  "description": "Playground to learn messenger bot functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefoster75/message-bot-sandbox.git"
+  },
+  "author": "Elizabeth FOster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sefoster75/message-bot-sandbox/issues"
+  },
+  "homepage": "https://github.com/sefoster75/message-bot-sandbox#readme"
+}
